@@ -1,42 +1,56 @@
-# 💫 About Me:
-😁 Welcome to my personal and academic projects lab!<br>
-👦🏻 My name is **Guilherme**, an 18-year-old developer passionate about **Back-End development**. Currently studying **Systems Analysis and Development**, I am constantly improving my skills and learning new technologies.<br>
-📚 I am focused on **Back-End development** with **C# and .NET**, and I leverage **Google Cloud Platform (GCP)** for cloud services, monitoring, and scalability.<br>
+# 🪪 About Me
 
-As a developer, my goal is to build robust, scalable back-end solutions, and I am excited to gain practical experience through internships that allow me to contribute and grow further in this field.
+😁 Welcome to my personal and academic project lab!
+👦🏻 My name is Guilherme, I'm 18 years old and I'm a developer with a passion for technology. Currently studying Systems Analysis and Development, I'm always improving my skills and learning new technologies.
+📚 My focus is to build robust and scalable backend solutions in C#/.NET, using Google Cloud Platform (GCP) for cloud services, monitoring and scalability.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilhermecosta.tech@gmail.com)
-# 💻 Tech Stack:
+As a developer, my goal is to gain hands-on experience through internships where I can contribute and grow.
+
+---
+
+## 🌐 Socials
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilhermecosta.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/guilhermecosta-tech)
+
+---
+
+## 💻 Tech Stack
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="42" alt=".NET logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42" alt="gcp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="42" alt="bigquery logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+       width="69" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
+       width="69" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+       width="69" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       width="69" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       width="69" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+       width="69" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+       width="69" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+       width="69" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+       width="69" alt="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"
+       width="69" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/SQL%20Server-007ACC?logo=microsoft-sql-server&logoColor=white"
+       width="69" alt="SQL Server" />
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GuilhermeCosta-Tech&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GuilhermeCosta-Tech&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCosta-Tech&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![Streak Stats](https://streak-stats.demolab.com?user=GuilhermeCosta-Tech&theme=radical&hide_border=true)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GuilhermeCosta-Tech&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats
+
+![GuilhermeCosta-Tech's Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCosta-Tech&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![GuilhermeCosta-Tech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeCosta-Tech&theme=dark&hide_border=false)
+![GuilhermeCosta-Tech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCosta-Tech&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+---
+
 
