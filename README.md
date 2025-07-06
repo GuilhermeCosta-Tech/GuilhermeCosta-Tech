@@ -2,6 +2,7 @@
 
 😁 Welcome to my personal and academic project lab!
 👦🏻 My name is Guilherme, I'm 18 years old and I'm a developer with a passion for technology. Currently studying Systems Analysis and Development, I'm always improving my skills and learning new technologies.
+
 📚 My focus is to build robust and scalable backend solutions in C#/.NET, using Google Cloud Platform (GCP) for cloud services, monitoring and scalability.
 
 As a developer, my goal is to gain hands-on experience through internships where I can contribute and grow.
