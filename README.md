@@ -2,7 +2,7 @@
 
 😁 Bem-vindo ao meu laboratório de projetos pessoais e acadêmicos! 
 
-👦🏻 Me chamo Guilherme, tenho 18 anos, sou um jovem muito curioso, comunicativo e esforçado. Tenho um espírito competitivo, e busco sempre me aprofundar nos temas para entender como as coisas funcionam!
+👦🏻 Me chamo Guilherme, tenho 18 anos, sou um jovem muito curioso, comunicativo e esforçado. Tenho um espírito competitivo, o que me mantém motivado à melhorar constantemente. Busco sempre me aprofundar nos temas para entender como as coisas funcionam!
 
 📖 Atualmente estou cursando meu segundo semestre de Análise e Desenvolvimento de Sistemas pelo Mackenzie.
 
