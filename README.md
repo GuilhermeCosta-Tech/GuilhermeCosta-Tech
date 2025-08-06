@@ -2,13 +2,13 @@
 
 😁 Bem-vindo ao meu laboratório de projetos pessoais e acadêmicos! 
 
-👦🏻 Me chamo Guilherme, tenho 18 anos, sou um garoto muito curioso, comunicativo e esforçado — afinal, sempre podemos aprender com o próximo, né? 😅
+👦🏻 Me chamo Guilherme, tenho 18 anos, sou um jovem muito curioso, comunicativo e esforçado. Tenho um espírito competitivo, e busco sempre me aprofundar nos temas para entender como as coisas funcionam!
 
 📖 Atualmente estou cursando meu segundo semestre de Análise e Desenvolvimento de Sistemas pelo Mackenzie.
 
 📚 Atuo com foco no ecossistema C#/ .NET para criação de soluções robustas, escaláveis, e eficientes. Além disso, tenho foco na Google Cloud Plataform para aplicações em núvem!
 
-💼 Estou em busca do meu primeiro estágio na área de Desenvolvedor Back-end para que eu possa aplicar meus conhecimentos em projetos reais, criando soluções, resolvendo bugs e aprendendo cada vez mais.
+💼 Estou em busca do meu primeiro estágio como Desenvolvedor Back-end para que eu possa aplicar meus conhecimentos em projetos reais, criando soluções, resolvendo bugs e aprendendo cada vez mais.
 
 ---
 
@@ -16,6 +16,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilhermecosta.tech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/guilhermecosta-tech)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/guilhermecosta-tech/)
 
 ---
 
@@ -75,7 +76,6 @@
 ## 📊 GitHub Stats
 
 ![GuilhermeCosta-Tech's Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCosta-Tech&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![GuilhermeCosta-Tech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeCosta-Tech&theme=dark&hide_border=false)
 ![GuilhermeCosta-Tech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCosta-Tech&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
