@@ -4,11 +4,9 @@
 
 👦🏻 Me chamo Guilherme, tenho 18 anos, sou um jovem muito curioso, comunicativo e esforçado. Tenho um espírito competitivo, o que me mantém motivado à melhorar constantemente. Busco sempre me aprofundar nos temas para entender como as coisas funcionam!
 
-📖 Atualmente estou cursando meu segundo semestre de Análise e Desenvolvimento de Sistemas pelo Mackenzie.
+📖 Atualmente estou cursando meu terceiro semestre de Análise e Desenvolvimento de Sistemas pelo Mackenzie.
 
 📚 Atuo com foco no ecossistema C#/ .NET para criação de soluções robustas, escaláveis, e eficientes. Além disso, tenho foco na Google Cloud Plataform para aplicações em núvem!
-
-💼 Estou em busca do meu primeiro estágio como Desenvolvedor Back-end para que eu possa aplicar meus conhecimentos em projetos reais, criando soluções, resolvendo bugs e aprendendo cada vez mais.
 
 ---
 
@@ -26,10 +24,10 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
        width="48" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       width="48" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       width="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+       width="48" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+       width="48" alt="TypeScript" />
     <img align="auto" alt="DotNetCore" width="48" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg"/>
   
   </div>
@@ -62,6 +60,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
        width="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+       width="48" alt="GitLab" />
  </div>
 
 
