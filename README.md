@@ -1,12 +1,19 @@
-# 🪪 Sobre mim
+# 😊 Sobre mim
 
-😁 Bem-vindo ao meu laboratório de projetos pessoais e acadêmicos! 
+Olá! :)
 
-👦🏻 Me chamo Guilherme, tenho 18 anos, sou um jovem muito curioso, comunicativo e esforçado. Tenho um espírito competitivo, o que me mantém motivado à melhorar constantemente. Busco sempre me aprofundar nos temas para entender como as coisas funcionam!
+Me chamo Guilherme, tenho 19 anos e sou Estagiário de Engenharia de Software no <img src="https://cdn.simpleicons.org/nubank" width="22" align="absmiddle" />
 
-📖 Atualmente estou cursando meu terceiro semestre de Análise e Desenvolvimento de Sistemas pelo Mackenzie.
+Atualmente estou cursando o terceiro período de Análise e Desenvolvimento de Sistemas no Mackenzie. Tenho experiência prática em C#, .NET, Java, Spring, monitoramento e documentação.
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW4wMzBvdjZ5NzVjMW5zMXJ3YjNjdXF5anExaWozcWZiejNvdTVpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bnXDb68JTcr4I/giphy.gif" width="40%" alt="dexter" />
+</div>
 
-📚 Atuo com foco no ecossistema C#/ .NET para criação de soluções robustas, escaláveis, e eficientes. Além disso, tenho foco na Google Cloud Plataform para aplicações em núvem!
+
+
+Recentemente, expandi meu conjunto de ferramentas explorando Clojure e programação funcional — uma mudança que aguçou meu pensamento analítico e minha capacidade de resolver problemas complexos com soluções elegantes e imutáveis. Essa nova perspectiva complementa meu conhecimento atual e reforça minha metodologia de trabalho que é a boa prática de escrever código limpo e de fácil manutenção.
+
+Além do trabalho técnico, sou conhecido pela minha comunicação clara e amigável, que promove um ambiente de equipe colaborativo.
 
 ---
 
@@ -24,10 +31,10 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
        width="48" alt="C#" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg"
+       width="48" alt="Clojure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
        width="48" alt="Java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-       width="48" alt="TypeScript" />
     <img align="auto" alt="DotNetCore" width="48" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg"/>
   
   </div>
@@ -38,6 +45,8 @@
        width="48" alt="HTML5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
        width="48" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+       width="48" alt="TypeScript" />
 </div>
 
 #### Banco de Dados
@@ -53,8 +62,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
        width="48" alt="GCP" />
- </div>
-
 
 #### Ferramentas
 <div align="left">
@@ -72,12 +79,4 @@
 
 
 ---
-
-## 📊 GitHub Stats
-
-![GuilhermeCosta-Tech's Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCosta-Tech&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![GuilhermeCosta-Tech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCosta-Tech&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
----
-
 
